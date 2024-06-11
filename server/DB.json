@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Plan a movie night",
+        "description": "Complete with popcorn and cozy blankets for a fun and relaxing evening.",
+        "status": "doing"
+    },
+    {
+        "title": "Organise a decluttering session for my closet",
+        "description": "Sort through clothes and belongings to declutter and donate items I no longer need or use.",
+        "status": "done"
+    },
+    {
+        "title": "Complete presentation slides",
+        "description": "Create slides covering key points for the upcoming presentation. :)",
+        "status": "doing"
+    },
+    {
+        "title": "Read a chapter of a book before bed",
+        "description": "Wind down before sleep by immersing yourself in a good book for a peaceful night's rest.",
+        "status": "doing"
+    },
+    {
+        "title": "Attend a local cultural event or festival",
+        "description": "Immerse myself in the vibrant culture of my community by attending a local event or festival showcasing music, art, or food.",
+        "status": "todo"
+    },
+    {
+        "title": "Plan a picnic in the park with homemade snacks",
+        "description": "Pack a picnic basket with delicious homemade snacks and spend a leisurely afternoon soaking up the sun in the park.",
+        "status": "done"
+    },
+    {
+        "title": "Learn a new hobby or skill over semester break",
+        "description": "Dedicate time to learning something new, whether it's painting, knitting, or coding tutorials online.",
+        "status": "todo"
+    },
+    {
+        "title": "Write a letter or postcard",
+        "description": "Write to my grandad in Spain",
+        "status": "done"
+    },
+    {
+        "title": "Practice mindfulness meditation for 10 minutes",
+        "description": "Set aside time to practice mindfulness meditation to cultivate inner peace and reduce stress.",
+        "status": "todo"
+    },
+    {
+        "title": "Take a nature walk and appreciate the beauty around me",
+        "description": "Spend time outdoors, soaking in the beauty of nature.",
+        "status": "todo"
+    }
+]
